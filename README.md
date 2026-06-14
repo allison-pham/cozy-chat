@@ -4,4 +4,4 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Figma](https://img.shields.io/badge/-Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
 
-All-in-one platform (learning x productivity x social media) with syncing across platforms (GitHub, Instagram, Notion, Twitter)
+All-in-one platform (learning x productivity x social media) with syncing across platforms (GitHub, Notion, etc.)
